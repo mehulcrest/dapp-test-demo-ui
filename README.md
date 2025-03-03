@@ -1,15 +1,28 @@
-#
+# DAPP-Test-demo-UI
 
-#
+## 🚀 Project Setup
 
-# This is EfforlessOrder Sale Sites
+A simple decentralized application (DApp) test demo UI built with Vite.
 
-# `Node version : 18.19.0`
+## 📂 How to Use
 
-#
+1. **Clone the repository:**
+```bash
+git clone https://github.com/mehulcrest/dapp-test-demo-ui.git
+```
 
-# > npm run start
+2. **Navigate to the project folder:**
+```bash
+cd dapp-test-demo-ui
+```
 
-#
+3. **Install dependencies:**
+```bash
+npm install
+```
 
-#
+4. **Start the development server:**
+```bash
+npm run start
+```
+
